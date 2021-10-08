@@ -1,2 +1,2 @@
-# trash_classifier
+# also known as marc
 trained using mobilenetv2
